@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624762871774",
+    "project_id": "movie-app-f2287",
+    "storage_bucket": "movie-app-f2287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624762871774:android:4d0548c4073e41d1b8c74f",
+        "android_client_info": {
+          "package_name": "movieapp.bock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7eJ77xQwacSpjru3yQDdLRqBCHAOf0PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
